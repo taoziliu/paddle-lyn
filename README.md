@@ -71,3 +71,5 @@
 ### 特别推荐
 
 - [百度上线深度学习可视化工具 Visual DL 训练结果“训练结果所见即所得” ](https://zhuanlan.zhihu.com/p/33055237)
+- [Caffe可视化之VisualDL](http://www.cnblogs.com/makefile/p/visualdl.html)
+
