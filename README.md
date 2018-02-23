@@ -29,8 +29,8 @@
 - **知乎搬砖** [想飞的石头](https://www.zhihu.com/people/duan-shi-shi-68/activities)
 
 	- [基于PaddlePaddle的点击率的深度学习方法尝试](https://zhuanlan.zhihu.com/p/32699487)
-    - [paddlepaddle初体验](https://zhuanlan.zhihu.com/p/32081876)
-    - [paddlepaddle图像分类与visualDL尝鲜体验](https://zhuanlan.zhihu.com/p/33832272)
+	- [paddlepaddle初体验](https://zhuanlan.zhihu.com/p/32081876)
+	- [paddlepaddle图像分类与visualDL尝鲜体验](https://zhuanlan.zhihu.com/p/33832272)
     
 - **知乎搬砖** [景略集智](https://www.zhihu.com/org/jing-lue-ji-zhi/activities)
     
@@ -40,11 +40,11 @@
  
 - **小案例** [夜雨飘零](http://blog.csdn.net/qq_33200967)
 
-	- [【PaddlePaddle系列】笔记一：PaddlePaddle的安装](http://blog.csdn.net/qq_33200967/article/details/79071926)
-	- [【PaddlePaddle系列】笔记二：MINST手写数字识别](http://blog.csdn.net/qq_33200967/article/details/79095172)
-	- [【PaddlePaddle系列】笔记三：CIFAR彩色图像识别 ](http://blog.csdn.net/qq_33200967/article/details/79095224)
-	- [【PaddlePaddle系列】笔记四：自定义图像数据集的识别 ](http://blog.csdn.net/qq_33200967/article/details/79095265)
-	- [【PaddlePaddle系列】笔记五：验证码的识别 ](http://blog.csdn.net/qq_33200967/article/details/79095295)
+	- [《我的PaddlePaddle学习之路》笔记一：PaddlePaddle的安装](http://blog.csdn.net/qq_33200967/article/details/79071926)
+	- [《我的PaddlePaddle学习之路》笔记二：MINST手写数字识别](http://blog.csdn.net/qq_33200967/article/details/79095172)
+	- [《我的PaddlePaddle学习之路》笔记三：CIFAR彩色图像识别 ](http://blog.csdn.net/qq_33200967/article/details/79095224)
+	- [《我的PaddlePaddle学习之路》笔记四：自定义图像数据集的识别 ](http://blog.csdn.net/qq_33200967/article/details/79095265)
+	- [《我的PaddlePaddle学习之路》笔记五：验证码的识别 ](http://blog.csdn.net/qq_33200967/article/details/79095295)
 	- [《我的PaddlePaddle学习之路》笔记六——验证码端到端的识别](http://blog.csdn.net/qq_33200967/article/details/79233565)
 	- [《我的PaddlePaddle学习之路》笔记七——车牌端到端的识别](http://blog.csdn.net/qq_33200967/article/details/79095335)
 	- [《我的PaddlePaddle学习之路》笔记八——场景文字识别](http://blog.csdn.net/qq_33200967/article/details/79127138)
@@ -69,6 +69,7 @@
 
 - [PaddlePaddle与Tensorflow的对比分析](http://www.51cto.com/art/201801/565057.htm)
 - [PaddlePaddle深度学习开源平台：等待众人划桨的中国AI大船](https://baijiahao.baidu.com/s?id=1589356271484981375&wfr=spider&for=pc)
+- [PaddlePaddle与TensorFlow的对比分析](http://ai.51cto.com/art/201801/565815.htm)
 
 
 
@@ -76,4 +77,6 @@
 
 - [百度上线深度学习可视化工具 Visual DL 训练结果“训练结果所见即所得” ](https://zhuanlan.zhihu.com/p/33055237)
 - [Caffe可视化之VisualDL](http://www.cnblogs.com/makefile/p/visualdl.html)
+- [史上最详细的PaddlePaddle从安装到部署、从桌面到服务器](https://www.jianshu.com/p/b2766173d754)
+- [PaddlePaddle 移动端（一），在Android shell下运行PaddlePaddle](https://www.jianshu.com/p/91053654da98)
 
