@@ -4,6 +4,7 @@
 
 - [ 官方github](https://github.com/PaddlePaddle)
 - [官方link](https://paddlepaddle.org)
+- [官方训练营](http://ai.baidu.com/paddlepaddle)
 
 ---
 
