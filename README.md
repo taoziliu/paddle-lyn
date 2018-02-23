@@ -36,6 +36,9 @@
     
   - [深度学习-用PaddlePaddle调戏邮件诈骗犯（1）](https://zhuanlan.zhihu.com/p/33172827)
   - [深度学习-用PaddlePaddle调戏邮件诈骗犯（2）](https://zhuanlan.zhihu.com/p/33211562)
+  - [用PaddlePaddle调戏邮件诈骗犯（3）](https://zhuanlan.zhihu.com/p/33528160)
+  - [kaiser带你用PaddlePaddle调戏邮件诈骗犯（4）](https://zhuanlan.zhihu.com/p/33672061)
+  - [用PaddlePaddle调戏邮件诈骗犯（完结篇）](https://zhuanlan.zhihu.com/p/33758198)
 
  
 - **小案例** [夜雨飘零](http://blog.csdn.net/qq_33200967)
