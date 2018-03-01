@@ -24,6 +24,8 @@
 - [【深度学习系列】关于PaddlePaddle的一些避“坑”技巧 18.1.13更新](http://www.cnblogs.com/charlotte77/p/8270710.html)
 - [【深度学习系列】CNN模型的可视化 18.1.24更新](http://www.cnblogs.com/charlotte77/p/8343700.html)
 - [【深度学习系列】PaddlePaddle可视化之VisualDL 18.1.26更新](http://www.cnblogs.com/charlotte77/p/8358194.html)
+- [【深度学习系列】迁移学习Transfer Learning](http://www.cnblogs.com/charlotte77/p/8399926.html)
+- [【深度学习系列】用PaddlePaddle进行车牌识别（一）](http://www.cnblogs.com/charlotte77/p/8431077.html)
 
 ### PaddlePaddle安装与实验 
 
@@ -52,6 +54,8 @@
 	- [《我的PaddlePaddle学习之路》笔记六——验证码端到端的识别](http://blog.csdn.net/qq_33200967/article/details/79233565)
 	- [《我的PaddlePaddle学习之路》笔记七——车牌端到端的识别](http://blog.csdn.net/qq_33200967/article/details/79095335)
 	- [《我的PaddlePaddle学习之路》笔记八——场景文字识别](http://blog.csdn.net/qq_33200967/article/details/79127138)
+	- [《我的PaddlePaddle学习之路》笔记九——使用VOC数据集的实现目标检测](http://blog.csdn.net/qq_33200967/article/details/79126780)
+	- [《我的PaddlePaddle学习之路》笔记十——自定义图像数据集实现目标检测](http://blog.csdn.net/qq_33200967/article/details/79126830)
 	
 	
 - **生成发烧友** [容顺林](http://www.cnblogs.com/ModifyRong/)
