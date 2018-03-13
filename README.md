@@ -75,7 +75,7 @@
 
 ### 相关文章
 
-- [PaddlePaddle与Tensorflow的对比分析](http://www.51cto.com/art/201801/565057.htm)
+- [PaddlePaddle与TensorFlow的对比分析](http://ai.51cto.com/art/201801/565815.htm)
 - [PaddlePaddle深度学习开源平台：等待众人划桨的中国AI大船](https://baijiahao.baidu.com/s?id=1589356271484981375&wfr=spider&for=pc)
 - [PaddlePaddle与TensorFlow的对比分析](http://ai.51cto.com/art/201801/565815.htm)
 - [PaddlePaddle深度学习实战——英法文翻译机](http://ai.51cto.com/art/201802/566177.htm)
