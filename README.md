@@ -56,6 +56,8 @@
 	- [《我的PaddlePaddle学习之路》笔记八——场景文字识别](http://blog.csdn.net/qq_33200967/article/details/79127138)
 	- [《我的PaddlePaddle学习之路》笔记九——使用VOC数据集的实现目标检测](http://blog.csdn.net/qq_33200967/article/details/79126780)
 	- [《我的PaddlePaddle学习之路》笔记十——自定义图像数据集实现目标检测](http://blog.csdn.net/qq_33200967/article/details/79126830)
+	- [《我的PaddlePaddle学习之路》笔记十一——新版本Fluid的使用](http://blog.csdn.net/qq_33200967/article/details/79126897)
+	- [我的PaddlePaddle学习之路》笔记十二——可视化工具VisualDL的使用](http://blog.csdn.net/qq_33200967/article/details/79127175)
 	
 	
 - **生成发烧友** [容顺林](http://www.cnblogs.com/ModifyRong/)
