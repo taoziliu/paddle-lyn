@@ -58,6 +58,7 @@
 	- [《我的PaddlePaddle学习之路》笔记十——自定义图像数据集实现目标检测](http://blog.csdn.net/qq_33200967/article/details/79126830)
 	- [《我的PaddlePaddle学习之路》笔记十一——新版本Fluid的使用](http://blog.csdn.net/qq_33200967/article/details/79126897)
 	- [我的PaddlePaddle学习之路》笔记十二——可视化工具VisualDL的使用](http://blog.csdn.net/qq_33200967/article/details/79127175)
+	- [《我的PaddlePaddle学习之路》笔记十三——把PaddlePaddle部署到网站服务器上](https://blog.csdn.net/qq_33200967/article/details/79571511)
 	
 	
 - **生成发烧友** [容顺林](http://www.cnblogs.com/ModifyRong/)
@@ -91,4 +92,6 @@
 - [Caffe可视化之VisualDL](http://www.cnblogs.com/makefile/p/visualdl.html)
 - [史上最详细的PaddlePaddle从安装到部署、从桌面到服务器](https://www.jianshu.com/p/b2766173d754)
 - [PaddlePaddle 移动端（一），在Android shell下运行PaddlePaddle](https://www.jianshu.com/p/91053654da98)
+- [Paddle Fluid 开发者指南](https://github.com/lcy-seso/learning_notes/blob/master/Fluid/developer's_guid_for_Fluid/Developer's_Guide_to_Paddle_Fluid.md)
+
 
