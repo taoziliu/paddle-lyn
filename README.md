@@ -26,6 +26,7 @@
 - [【深度学习系列】PaddlePaddle可视化之VisualDL 18.1.26更新](http://www.cnblogs.com/charlotte77/p/8358194.html)
 - [【深度学习系列】迁移学习Transfer Learning](http://www.cnblogs.com/charlotte77/p/8399926.html)
 - [【深度学习系列】用PaddlePaddle进行车牌识别（一）](http://www.cnblogs.com/charlotte77/p/8431077.html)
+- [【深度学习】用PaddlePaddle进行车牌识别（二）](http://www.cnblogs.com/charlotte77/p/8646960.html)
 
 ### PaddlePaddle安装与实验 
 
@@ -93,5 +94,6 @@
 - [史上最详细的PaddlePaddle从安装到部署、从桌面到服务器](https://www.jianshu.com/p/b2766173d754)
 - [PaddlePaddle 移动端（一），在Android shell下运行PaddlePaddle](https://www.jianshu.com/p/91053654da98)
 - [Paddle Fluid 开发者指南](https://github.com/lcy-seso/learning_notes/blob/master/Fluid/developer's_guid_for_Fluid/Developer's_Guide_to_Paddle_Fluid.md)
+- [PaddlePaddle︱开发文档中学习情感分类（CNN、LSTM、双向LSTM）、语义角色标注](https://blog.csdn.net/sinat_26917383/article/details/54864760#comments)
 
 
