@@ -1,9 +1,9 @@
 
-## PaddlePaddle内容汇总
+## PaddlePaddle内容汇总 
 ### **PaddlePaddle，等待众人划桨的中国AI大船！**
 
 - [ 官方github](https://github.com/PaddlePaddle)
-- [官方link](http://paddlepaddle.org)
+- [官方link](https://paddlepaddle.org)
 - [官方训练营](http://ai.baidu.com/paddlepaddle)
 
 ---
@@ -28,7 +28,7 @@
 - [【深度学习系列】用PaddlePaddle进行车牌识别（一）](http://www.cnblogs.com/charlotte77/p/8431077.html)
 - [【深度学习】用PaddlePaddle进行车牌识别（二）](http://www.cnblogs.com/charlotte77/p/8646960.html)
 
-### PaddlePaddle安装与实验
+### PaddlePaddle安装与实验 
 
 - **知乎搬砖** [想飞的石头](https://www.zhihu.com/people/duan-shi-shi-68/activities)
 
@@ -37,14 +37,14 @@
 	- [paddlepaddle图像分类与visualDL尝鲜体验](https://zhuanlan.zhihu.com/p/33832272)
     
 - **知乎搬砖** [景略集智](https://www.zhihu.com/org/jing-lue-ji-zhi/activities)
-
+    
   - [深度学习-用PaddlePaddle调戏邮件诈骗犯（1）](https://zhuanlan.zhihu.com/p/33172827)
   - [深度学习-用PaddlePaddle调戏邮件诈骗犯（2）](https://zhuanlan.zhihu.com/p/33211562)
   - [用PaddlePaddle调戏邮件诈骗犯（3）](https://zhuanlan.zhihu.com/p/33528160)
   - [kaiser带你用PaddlePaddle调戏邮件诈骗犯（4）](https://zhuanlan.zhihu.com/p/33672061)
   - [用PaddlePaddle调戏邮件诈骗犯（完结篇）](https://zhuanlan.zhihu.com/p/33758198)
 
-
+ 
 - **小案例** [夜雨飘零](http://blog.csdn.net/qq_33200967)
 
 	- [《我的PaddlePaddle学习之路》笔记一：PaddlePaddle的安装](http://blog.csdn.net/qq_33200967/article/details/79071926)
@@ -60,21 +60,21 @@
 	- [《我的PaddlePaddle学习之路》笔记十一——新版本Fluid的使用](http://blog.csdn.net/qq_33200967/article/details/79126897)
 	- [我的PaddlePaddle学习之路》笔记十二——可视化工具VisualDL的使用](http://blog.csdn.net/qq_33200967/article/details/79127175)
 	- [《我的PaddlePaddle学习之路》笔记十三——把PaddlePaddle部署到网站服务器上](https://blog.csdn.net/qq_33200967/article/details/79571511)
-
-
+	
+	
 - **生成发烧友** [容顺林](http://www.cnblogs.com/ModifyRong/)
 
 	- [使用PaddlePaddle来进行文本生成](http://www.cnblogs.com/ModifyRong/p/7684499.html)
 	- [使用PaddlePaddle来进行意图识别-开篇](http://www.cnblogs.com/ModifyRong/p/8231899.html)
 	- [教你如何快速入门用户画像 ](http://www.cnblogs.com/ModifyRong/p/7800318.html)
-
-
+    
+    
 - **学生博客** [jintian](http://lewisjin.oschina.io)
 
   - [PaddlePaddle系列之三行代码从入门到精通](http://lewisjin.oschina.io/2017/10/11/PaddlePaddle系列之三行代码从入门到精通/)
   - [PaddlePaddle-TensorFlow等五大深度学习框架最新评测](http://lewisjin.oschina.io/2017/10/13/PaddlePaddle-TensorFlow等五大深度学习框架最新评测/)
    - [用PaddlePaddle实现一个女朋友微博情感监控AI](http://lewisjin.oschina.io/2017/11/05/PaddlePaddle文本卷积实现情感分类/)
-
+	
 
 
 ### 相关文章
@@ -95,3 +95,5 @@
 - [PaddlePaddle 移动端（一），在Android shell下运行PaddlePaddle](https://www.jianshu.com/p/91053654da98)
 - [Paddle Fluid 开发者指南](https://github.com/lcy-seso/learning_notes/blob/master/Fluid/developer's_guid_for_Fluid/Developer's_Guide_to_Paddle_Fluid.md)
 - [PaddlePaddle︱开发文档中学习情感分类（CNN、LSTM、双向LSTM）、语义角色标注](https://blog.csdn.net/sinat_26917383/article/details/54864760#comments)
+
+
