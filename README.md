@@ -3,7 +3,7 @@
 ### **PaddlePaddle，等待众人划桨的中国AI大船！**
 
 - [ 官方github](https://github.com/PaddlePaddle)
-- [官方link](https://paddlepaddle.org)
+- [官方link](http://paddlepaddle.org)
 - [官方训练营](http://ai.baidu.com/paddlepaddle)
 
 ---
