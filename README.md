@@ -35,6 +35,7 @@
 	- [基于PaddlePaddle的点击率的深度学习方法尝试](https://zhuanlan.zhihu.com/p/32699487)
 	- [paddlepaddle初体验](https://zhuanlan.zhihu.com/p/32081876)
 	- [paddlepaddle图像分类与visualDL尝鲜体验](https://zhuanlan.zhihu.com/p/33832272)
+	- [paddlepaddle源码解析第一弹](https://zhuanlan.zhihu.com/p/35357057)
     
 - **知乎搬砖** [景略集智](https://www.zhihu.com/org/jing-lue-ji-zhi/activities)
     
